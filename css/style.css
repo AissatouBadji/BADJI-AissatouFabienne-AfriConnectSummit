@@ -299,8 +299,9 @@ text-align:center;
 
 .speaker-card img{
 width:100%;
-height:250px;
+height:280px;
 object-fit:cover;
+display: block;
 }
 
 .speaker-card h3{

@@ -62,9 +62,7 @@ Les fonctionnalités JavaScript développées sont :
 
 Lien GitHub Pages :
 
-À compléter après activation de GitHub Pages.
-
----
+ https://aissatoubadji.github.io/BADJI-AissatouFabienne-AfriConnectSummit/
 
 ## Ressources consultées
 
@@ -80,3 +78,19 @@ Lien GitHub Pages :
 ---
 
 ## Structure du projet
+AfriConnectSummit/
+│
+├── index.html
+├── programme.html
+├── intervenants.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+├── images/
+│
+└── README.md
